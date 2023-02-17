@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    background-color: #15191b;
+}
+
+h1 {
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 40px;
+    position: fixed;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+#canvas {
+    margin-top: 100px;
+    position: absolute;
+}
