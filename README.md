@@ -1,4 +1,4 @@
-# javascript-snake
+# JavaScript Snake
 A simple Snake game made in my JavasScript class, in which the objective was to make use of what was recently learned.
 
 ## How to play
